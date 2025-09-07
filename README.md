@@ -35,19 +35,5 @@
 - Interessado em criar interfaces modernas e experiências de usuário intuitivas  
 - Gosto de projetos que combinam lógica e estética, unindo código e design  
 
----
-
-## 🌎 Onde me encontrar  
-
-<p align="center">
-  <a href="https://linkedin.com/in/lucaseduardo01">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
-  </a>
-  <a href="mailto:lucaseduardosilva0848@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="35" height="35"/>
-  </a>
-</p>
-
-
 
 
